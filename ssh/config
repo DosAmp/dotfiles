@@ -1,0 +1,37 @@
+Host *
+	User dosamp
+	# in case of malconfigured resolv.conf
+	# (missing domain/search line for LAN)
+	#CanonicalizeHostname yes
+	#CanonicalDomains fritz.box
+
+Host blinkiepie htpc
+	# OpenELEC is a single user system
+	User root
+
+Host bshellz
+	# old account perished during server upgrade
+	User dosweb
+	HostName elite.bshellz.net
+
+Host ceres
+	HostName ceres.dosamp.net
+	# this time, the zone file has all the fingerprints possible atm
+	# (RSA, DSA and ECDSA as SHA-1 and SHA-256)
+	VerifyHostKeyDNS yes
+
+Host github
+	User git
+	HostName github.com
+
+Host pinkiserver
+	HostName pinkiserver.mine.nu
+
+Host whatbox cupcake
+	User opheleon
+	HostName cupcake.whatbox.ca
+
+Host wyntoncraft mc.dosamp.net
+	HostName wyntoncraft.t23h.de
+	# until Wynton can be bothered to use public keys, at least for root :P
+	PasswordAuthentication no

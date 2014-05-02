@@ -1,0 +1,10 @@
+[core]
+	; only sensible editors on Windows, please
+	autocrlf = false
+[user]
+	name = DosAmp
+	email = bilderschleuder@gmail.com
+[merge]
+	tool = vimdiff
+[color]
+	ui = true

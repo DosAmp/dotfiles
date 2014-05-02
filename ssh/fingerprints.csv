@@ -1,0 +1,20 @@
+Friendly name,Host name,SSH key fingerprint,Comment
+Blinkie Pie,blinkiepie,e2:eb:4f:c7:6f:4a:56:a1:c7:de:ef:09:ed:2d:e3:42,NBG RaspPi HTPC
+Braeburn,braeburn,73:06:7c:f8:12:e1:8b:30:d7:dc:09:ca:a6:88:7a:fc,NBG primary desktop
+Bshellz Elite,bshellz,32:8f:c8:ff:25:65:49:c7:8b:69:be:34:1f:d7:b6:3a,shared server account
+Ceres,ceres,75:e2:b7:06:b0:b2:63:7f:36:60:9c:00:7d:13:28:ab,server
+Cloudchaser,cloudchaser,17:7e:70:53:59:97:0a:ff:19:87:10:26:d4:b7:c7:e7,
+Granny Pie,grannypie,0c:a9:40:3f:97:33:af:84:6d:ef:a9:40:7a:0c:41:19,
+Helia,helia,31:ed:20:18:79:69:1b:da:36:12:65:f8:93:9c:61:49,
+Muffin,muffin,8e:78:de:bb:2c:69:f4:e7:96:f0:65:61:a4:a9:21:47,OZ primary netbook
+PC-NEU,pc-neu,1d:15:c9:89:ec:35:94:a3:0a:03:ed:e2:ae:c7:35:86,OZ secondary desktop
+Pinkiserver,pinkiserver,7c:45:bb:a4:cf:fa:6d:7c:a0:fc:db:df:8e:58:ba:2c,administrated homeserver
+Scenic,scenic,68:bd:b7:f4:97:7a:f0:a8:ee:5c:f9:88:e1:5f:6e:fd,OZ homeserver
+Soarin,soarin,8e:63:5c:bf:6d:80:fa:b7:1c:3c:36:1d:52:f1:27:d5,primary smartphone
+Sonic,sonic,9b:85:98:03:d2:4d:d9:24:d4:bd:33:a6:33:47:9c:25,NBG homeserver
+Spitfire,spitfire,58:26:8e:5e:6f:9e:89:5b:9e:2d:85:1f:3e:cf:d8:97,OZ primary desktop
+Starburst,starburst,27:cc:44:fc:df:6a:6a:32:82:52:33:5d:3a:7d:93:30,primary tablet
+Thunderlane,thunderlane,a4:ed:80:3f:e1:27:e0:41:45:0b:52:70:d1:b8:37:fe,NBG primary laptop
+Whatbox,whatbox,24:51:b8:52:e8:f5:dd:c7:c3:76:80:a5:8a:9f:bb:b1,shared server account (seedbox)
+Wildfire,wildfire,89:f2:e5:18:15:97:0f:ca:40:e3:f3:82:4f:ad:0b:1a,mobile primary laptop
+Wyntoncraft,wyntoncraft,6b:03:26:bd:40:6a:eb:e6:c5:bc:de:83:0e:4c:bf:53,server

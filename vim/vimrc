@@ -1,0 +1,23 @@
+" DosAmp's .vimrc, 2014 revision
+set nocompatible
+
+" general ai usage, use smartindent/cindent for specific languages
+set autoindent
+" general unscrambling of control sequences, unset for specific languages
+set display=uhex
+" adapt on a per-host basis (PuTTY/Linux vconsole vs. xterm/*-terminal)
+"set background=dark
+
+set backspace=indent,eol,start
+set modeline
+set number
+set numberwidth=2
+set ruler
+set tabstop=4
+
+" dirty hacks
+map Q gq
+inoremap <C-U> <C-G>u<C-U>
+
+filetype plugin indent on
+syntax on
