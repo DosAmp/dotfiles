@@ -16,6 +16,8 @@ Host ceres
 Host github
 	User git
 	HostName github.com
+	RequestTTY no
+	VerifyHostKeyDNS yes
 
 Host pinkiserver
 	HostName pinkiserver.mine.nu
