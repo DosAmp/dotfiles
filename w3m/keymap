@@ -1,0 +1,2 @@
+# quit w3m without confirmation or using Shift+Q
+keymap	q	EXIT
