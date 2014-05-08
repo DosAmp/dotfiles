@@ -18,3 +18,7 @@ ssh-add() {
 	fi
 	command ssh-add $*
 }
+
+clbin() {
+	curl -F 'clbin=<-' https://clbin.com
+}
