@@ -1,1 +1,1 @@
-[ -S "$SSH_AUTH_SOCK"] && eval $(ssh-agent -k)
+[ -S "$SSH_AUTH_SOCK" ] && eval $(ssh-agent -k)
