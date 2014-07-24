@@ -1,7 +1,3 @@
-Host blinkiepie htpc
-	# OpenELEC is a single user system
-	User root
-
 Host bshellz
 	# old account perished during server upgrade
 	User dosweb
