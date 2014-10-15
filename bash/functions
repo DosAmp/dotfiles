@@ -22,3 +22,7 @@ ssh-add() {
 clbin() {
 	curl -F 'clbin=<-' https://clbin.com
 }
+
+pone() {
+	ping "$@" | sed '1s/PING/PONE/;s/byte/horse/'
+}
